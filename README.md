@@ -35,3 +35,12 @@ The antena is also connected to the module through the cable which allows for ea
 We collected few videos from the sourceful web, and then we ran our software on the video and the results are pretty amusing. It went well. 
 We took a video of a neighbourhood which has cars and trucks and another video from NatGeo Wild. One is for detecting the cars and the other is for detecting the types of animals. 
 The software model we used is YOLOv3
+
+# How we built it?
+ 
+The prototype will change into an “Aerial surveillance” once it takes off to the heights of the skies/clouds once we market it and make it even more scalable. 
+This is completely remote controlled (for now at least).
+Using the latest advances in Machine Learning and Computer Vision, we are trying to transform the lives of the muted ones (animals).
+DRONEYES can describe what’s going on the ground through the video output we get on the user side.
+It can help to find things around the scouted area by describing, which is human, animal (by type) immediately and gives the exact position of the area that needs to be scouted.
+With the help of cloud technology, we can share the data in real time.
