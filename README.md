@@ -18,5 +18,8 @@ image of the terra-firma and detect what is what with the help of its camera.
 It flies down to a stealth level and sends us the interactive feedback of the place by taking a video or a photo.
 This solution can detect people, weapons, animals, trees and many more. 
 Further developments in this project include the predicting of the type animal and the exact location of the hunt, so that the task force could immediately come to the respective place and act.
-The respective organizations need not require any strains and moreover it need not rely on other solutions by utilizing the product the lives of animals will get  saved from <b>poaching</b>.
+The respective organizations need not require any strains and moreover it need not rely on other solutions by utilizing the product. The lives of animals will get  saved from <b>poaching</b>.
 
+The prototype will change into an <b>“Aerial surveillance”</b> once it takes off to the heights of the skies/clouds once we market it and make it even more scalable. This is completely remote controlled (for now at least).
+
+Using the latest advances in Machine Learning and Computer Vision, we are trying to transform the lives of the muted ones (animals).
