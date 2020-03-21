@@ -27,3 +27,5 @@ Using the latest advances in Machine Learning and Computer Vision, we are trying
 <b>DRONEYES</b> can describe what’s going on the ground through the video output we get on the user side. It can help to find things around the scouted area by describing, which is human, animal (by species) immediately and gives the exact position of the area that needs to be scouted. With the help of cloud technology, we can share the data in real time.
 
 We are trying to integrate the object detection software into the drone’s camera which is a big challenge.
+
+We are working on the GPS module and the Flight Controller for the drone. The flight controller is necessary for the stability of the drone. The Global Positioning System or GPS is a device that has a capability to measure how long a signal takes to travel from a satellite. This device gives an estimation of the drones altitude, the lat and the long of the place. This makes the device to be so vital in our project. The GPS modules are inaccurate, but they can be rectified by buying more complex external GPS receivers. For this projectwe are using.
