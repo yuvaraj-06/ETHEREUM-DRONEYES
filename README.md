@@ -25,3 +25,5 @@ The prototype will change into an <b>“Aerial surveillance”</b> once it takes
 Using the latest advances in Machine Learning and Computer Vision, we are trying to transform the lives of the muted ones (animals).
 
 <b>DRONEYES</b> can describe what’s going on the ground through the video output we get on the user side. It can help to find things around the scouted area by describing, which is human, animal (by species) immediately and gives the exact position of the area that needs to be scouted. With the help of cloud technology, we can share the data in real time.
+
+We are trying to integrate the object detection software into the drone’s camera which is a big challenge.
