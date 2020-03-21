@@ -1,10 +1,13 @@
 # ETHEREUM-DRONEYES
 
+# Inspiration:-
 
  We are in a time where the outcomes of poaching are given a lot of value and money even though it is 
-considered illegal. Every day we are losing hundreds of mammals belonging to 
-endangered species this is mainly due to the lack of enforcement and proper 
+considered illegal. Every day we are <b>losing hundreds of mammals belonging to endangered species</b> 
+this is mainly due to the lack of enforcement and proper 
 government regulations.
+
+# Proposed Solution:-
 
 The prototyped solution would have a life-changing impact on the lives of 
 animals and probably help us catch the predators too. Implementing this 
@@ -16,3 +19,4 @@ It flies down to a stealth level and sends us the interactive feedback of the pl
 This solution can detect people, weapons, animals, trees and many more. 
 Further developments in this project include the predicting of the type animal and the exact location of the hunt, so that the task force could immediately come to the respective place and act.
 The respective organizations need not require any strains and moreover it need not rely on other solutions by utilizing the product the lives of animals will get saved from poaching.
+
