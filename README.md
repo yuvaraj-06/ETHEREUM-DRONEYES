@@ -28,7 +28,10 @@ Using the latest advances in Machine Learning and Computer Vision, we are trying
 
 We are trying to integrate the object detection software into the drone’s camera which is a big challenge.
 
-We are working on the GPS module and the Flight Controller for the drone. The flight controller is necessary for the stability of the drone. The Global Positioning System or GPS is a device that has a capability to measure how long a signal takes to travel from a satellite. This device gives an estimation of the drones altitude, the lat and the long of the place. This makes the device to be so vital in our project. The GPS modules are inaccurate, but they can be rectified by buying more complex external GPS receivers. For this project we are using Neo 6m v2 GPS Module, this module has a high precision output.This module comes pre-equiped wiht a battery due to which we can obtain the GPS lock faster. 
+We are working on the GPS module and the Flight Controller for the drone. The flight controller is necessary for the stability of the drone. The Global Positioning System or GPS is a device that has a capability to measure how long a signal takes to travel from a satellite. This device gives an estimation of the drones altitude, the lat and the long of the place. This makes the device to be so vital in our project. The GPS modules are inaccurate, but they can be rectified by buying more complex external GPS receivers. For this project we are using Neo 6m v2 GPS Module, this module has a high precision output.This module comes pre-equiped with a battery due to which we can obtain the GPS lock faster. 
 The antena is also connected to the module through the cable which allows for easy mounting of the GPS. This makes it to see the sky and give its best performance. When it comes to accuracy, we can expect an error upto 4 times the pixel size for a correctly reconstructed model.
 
 
+We collected few videos from the sourceful web, and then we ran our software on the video and the results are pretty amusing. It went well. 
+We took a video of a neighbourhood which has cars and trucks and another video from NatGeo Wild. One is for detecting the cars and the other is for detecting the types of animals. 
+The software model we used is YOLOv3
