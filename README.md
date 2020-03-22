@@ -51,3 +51,6 @@ With the help of cloud technology, we can share the data in real time.
 1)	Integrating the object detection into the drone’s camera is a big challenge that we faced during the hackathon.
 2)	The drone’s flight controller gave us a trouble during the hackathon, this made us tensed and nervous about the result, but we finally made it possible by solving it.
 3)	The most important thing is to integrate the sub-modules to a whole project prototype.
+
+# Accomplishments we are proud of!
+ We knew it was a hard task to implement our idea on a totally new platform and environment without our physical selves being at one place due to COVID-19, but we challenged ourselves to fight it till the end and we did it. Being able to transform our idea into a project that could be displayed feels great! We will never step back in life from trying something new every time. If we could stay up for 24 hours and accomplish our goal, we believe nothing is IMPOSSIBLE.
