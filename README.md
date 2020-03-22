@@ -55,6 +55,23 @@ With the help of cloud technology, we can share the data in real time.
 # Accomplishments we are proud of!
  We knew it was a hard task to implement our idea on a totally new platform and environment without our physical selves being at one place due to COVID-19, but we challenged ourselves to fight it till the end and we did it. Being able to transform our idea into a project that could be displayed feels great! We will never step back in life from trying something new every time. If we could stay up for 24 hours and accomplish our goal, we believe nothing is IMPOSSIBLE.
 
+# OBJECT DETECTION
+
+    1. Real Time
+    2. Video Feed
+    
+<b>YOLOv3</b> trained on <b>COCO</b> was used for Object detection. Darkflow which is a Tensorflow variant Darknet was used to process the frames. Darknet is an open source neural network framework written in C and CUDA. 
+
+<img src="https://github.com/yuvaraj-06/ETHEREUM-DRONEYES/blob/master/object%20detection/img/yol.jpg">
+
+
+Several images of Guns, Poachers, Rangers were scraped from the internet and YOLOv2 was trained from scratch to detect the following object classes in the frames. Due to lack of data and time in the hackathon, high accuracy and confidence was not achieved.
+
+Wildlife Video Feed was fed to the layers of YOLO and animals / humans were tracked with high confidence in the wildlife. Some of the frames are :
+
+<img src="https://github.com/yuvaraj-06/ETHEREUM-DRONEYES/blob/master/object%20detection/img/xlmr.JPG">
+
+
 # Steps For Using Object Detection
 
 <b>STEP-1</b> Download the current repositry.
