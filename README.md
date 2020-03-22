@@ -54,3 +54,15 @@ With the help of cloud technology, we can share the data in real time.
 
 # Accomplishments we are proud of!
  We knew it was a hard task to implement our idea on a totally new platform and environment without our physical selves being at one place due to COVID-19, but we challenged ourselves to fight it till the end and we did it. Being able to transform our idea into a project that could be displayed feels great! We will never step back in life from trying something new every time. If we could stay up for 24 hours and accomplish our goal, we believe nothing is IMPOSSIBLE.
+
+# Steps For Using Object Detection
+
+<b>STEP-1</b>Download the current repositry.
+
+<b>STEP-2</b>Open command promt and cd to object detection .
+
+<b>STEP-3</b>.Then type <b>python webstreaming.py -i 127.0.0.1 -o 5000</b> .
+
+<b>STEP-4</b>.Then you can see , a self host server running and copy this link <b>http://127.0.0.1:5000/</b> and paste in browser.
+
+<img src="https://github.com/yuvaraj-06/ETHEREUM-DRONEYES/blob/master/object%20detection/cmd.PNG">
