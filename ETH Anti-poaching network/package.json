@@ -55,7 +55,7 @@
     "matic-protocol": "github:maticnetwork/contracts#fa6862dc6ddae97351aa1b4d16c087861b5a489e",
     "merkle-patricia-tree": "2.3.2",
     "query-string": "6.8.1",
-    "web3": "1.2.1",
+    "web3": "1.7.5",
     "web3-providers-ws": "1.2.4"
   },
   "devDependencies": {
